@@ -47,8 +47,8 @@ body{
 }
 
 .container .card img{
-    width: 70%;
-    height: 60%;
+    width: 70%; /*AIXÒ ESTAVA A 50%*/
+    height: 60%; /*AIXÒ ESTAVA A 40%*/
 }
 
 .container .card h1{
