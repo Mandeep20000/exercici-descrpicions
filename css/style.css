@@ -30,8 +30,8 @@ body{
 
 
 .container .card{
-    width: 50%; /*ESTAVA A 25%*/
-    height: 25%; /*ESTAVA A 60%*/
+    width: 25%; /*ESTAVA A 25%*/
+    height: 60%; /*ESTAVA A 60%*/
     border-radius: 0.8%;
     box-shadow: 0 2px 2px rgba(0,0,0,0.2);
     overflow: hidden;
@@ -48,7 +48,7 @@ body{
 
 .container .card img{
     width: 50%; /*AIXÒ ESTAVA A 50%*/
-    height: 30%; /*AIXÒ ESTAVA A 40%*/
+    height: 40%; /*AIXÒ ESTAVA A 40%*/
 }
 
 .container .card h1{
